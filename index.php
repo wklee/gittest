@@ -1,4 +1,6 @@
-//add comment testing
+//edited comment here
+//
+//
 <?php
 	phpinfo();
 ?>
