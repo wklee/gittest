@@ -1,6 +1,4 @@
-//edited comment here now
-//
-//
+//edited comment//
 <?php
 	phpinfo();
 ?>
