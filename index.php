@@ -1,4 +1,4 @@
-<h1>Hello</h1>
+<h1>Hello from github</h1>
 <?php
 	phpinfo();
 ?>
